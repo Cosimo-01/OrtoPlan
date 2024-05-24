@@ -3,6 +3,7 @@ logs
 *.log
 
 target/**
+src/test/**
 
 # Editor directories and files
 .vscode/*
